@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chathurajanithya" alt="chathurajanithya" /></a> </p>
 
-- 🌱 I’m currently learning **JAVA, Javascript and node js**
+- 🌱 I’m currently learning **Kotlin and node js**
 
 - 💬 Ask me about **JS**
 
